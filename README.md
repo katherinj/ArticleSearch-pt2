@@ -1,4 +1,4 @@
-# Android Lab 4 - Article Search
+# Android Lab 5 - Article Search Pt 2
 
 Submitted by: **Katherin Jimenez**
 
@@ -10,13 +10,8 @@ Time spent: **1** hours spent in total
 
 The following **required** functionality is completed:
 
-- [x] Articles are displayed using the RecyclerView
-- [x] Can navigate to the Article Details screen
-- [x] Article images are downloaded and displayed using Glide
-
-The following **optional** features are implemented:
-
-- [x] View elements are styled in the .xml files
+- [x] Most recently fetched data is stored locally in a database
+- [x] If user turns on airplane mode and closes and reopens app, old data from the database should be loaded
 
 ## Video Walkthrough
 
