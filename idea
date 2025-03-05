@@ -1,0 +1,15 @@
+<script>start("/Users/katherin/Desktop/ArticleSearch-Pt222/.idea/");</script>
+<script>onHasParentDirectory();</script>
+<script>addRow("caches","caches",1,96,"96 B",1741148449,"3/4/25, 11:20:49 PM");</script>
+<script>addRow(".gitignore",".gitignore",0,47,"47 B",1740502711,"2/25/25, 11:58:31 AM");</script>
+<script>addRow(".name",".name",0,13,"13 B",1741148448,"3/4/25, 11:20:48 PM");</script>
+<script>addRow("ArticleSearch-Pt2.iml","ArticleSearch-Pt2.iml",0,336,"336 B",1741148436,"3/4/25, 11:20:36 PM");</script>
+<script>addRow("compiler.xml","compiler.xml",0,169,"169 B",1740503752,"2/25/25, 12:15:52 PM");</script>
+<script>addRow("deploymentTargetSelector.xml","deploymentTargetSelector.xml",0,301,"301 B",1740503861,"2/25/25, 12:17:41 PM");</script>
+<script>addRow("gradle.xml","gradle.xml",0,757,"757 B",1740504214,"2/25/25, 12:23:34 PM");</script>
+<script>addRow("kotlinc.xml","kotlinc.xml",0,175,"175 B",1740503752,"2/25/25, 12:15:52 PM");</script>
+<script>addRow("migrations.xml","migrations.xml",0,254,"254 B",1740502711,"2/25/25, 11:58:31 AM");</script>
+<script>addRow("misc.xml","misc.xml",0,409,"409 B",1741148433,"3/4/25, 11:20:33 PM");</script>
+<script>addRow("runConfigurations.xml","runConfigurations.xml",0,964,"964 B",1740502711,"2/25/25, 11:58:31 AM");</script>
+<script>addRow("vcs.xml","vcs.xml",0,167,"167 B",1740502711,"2/25/25, 11:58:31 AM");</script>
+<script>addRow("workspace.xml","workspace.xml",0,8988,"8.8 kB",1741148449,"3/4/25, 11:20:49 PM");</script>

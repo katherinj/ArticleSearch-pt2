@@ -1,0 +1,7 @@
+<script>start("/Users/katherin/Desktop/ArticleSearch-Pt222/.gradle/");</script>
+<script>onHasParentDirectory();</script>
+<script>addRow("8.10.2","8.10.2",1,320,"320 B",1740503737,"2/25/25, 12:15:37 PM");</script>
+<script>addRow("buildOutputCleanup","buildOutputCleanup",1,160,"160 B",1740504022,"2/25/25, 12:20:22 PM");</script>
+<script>addRow("vcs-1","vcs-1",1,96,"96 B",1740502711,"2/25/25, 11:58:31 AM");</script>
+<script>addRow("config.properties","config.properties",0,100,"100 B",1740502705,"2/25/25, 11:58:25 AM");</script>
+<script>addRow("file-system.probe","file-system.probe",0,8,"8 B",1740504989,"2/25/25, 12:36:29 PM");</script>
